@@ -1,0 +1,1 @@
+# Quality-Assurance-of-an-E-Commerce-Platform-Manual-UI-API-Testing
